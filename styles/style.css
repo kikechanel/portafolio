@@ -66,6 +66,7 @@ body {
 
 .presentacion__contenido__texto a {
     text-decoration: none;
+    text-align: justify;
     color: var(--color-terciario);
 }
 
